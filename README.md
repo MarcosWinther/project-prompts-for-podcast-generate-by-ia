@@ -21,7 +21,7 @@
 -------
 
 <p align="center">
-    Preview do podcast - via vídeo
+    Preview do podcast:
 </p>
 
 <div align="center">
@@ -31,11 +31,7 @@
    </video>
 </div>
 
--------
-
-<p align="center">
-    Preview do podcast - via áudio
-</p>
+<br>
 
 <div align="center">
     <audio controls title="Podcast ScoobyDoobyCode - áudio">
