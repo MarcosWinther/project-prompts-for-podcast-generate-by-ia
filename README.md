@@ -25,7 +25,10 @@
 </p>
 
 <div align="center">
-   <video src="./output/podcast_ScoobyDoobyCode.mp4" controls title="Podcast ScoobyDoobyCode - vídeo"></video>
+   <video controls title="Podcast ScoobyDoobyCode - vídeo">
+      <source src="./output/podcast_ScoobyDoobyCode.mp4" type="video/mp4" />
+      <a href="https://github.com/MarcosWinther/project-prompts-for-podcast-generate-by-ia/blob/main/output/podcast_ScoobyDoobyCode.mp4"> 🎬 Clique aqui para assistir!</a>
+   </video>
 </div>
 
 -------
@@ -35,7 +38,10 @@
 </p>
 
 <div align="center">
-    <audio src="./output/podcast_ScoobyDoobyCode.mp3" controls title="Podcast ScoobyDoobyCode - áudio"></audio>
+    <audio controls title="Podcast ScoobyDoobyCode - áudio">
+      <source src="./output/podcast_ScoobyDoobyCode.mp3" type="audio/mpeg" />
+     <a href="https://github.com/MarcosWinther/project-prompts-for-podcast-generate-by-ia/blob/main/output/podcast_ScoobyDoobyCode.mp3"> 🎧 Clique aqui para ouvir!</a>
+    </audio>
 </div>
 
 -------
