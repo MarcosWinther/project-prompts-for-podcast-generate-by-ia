@@ -27,7 +27,7 @@
 <div align="center">
    <video controls title="Podcast ScoobyDoobyCode - vídeo">
       <source src="./output/podcast_ScoobyDoobyCode.mp4" type="video/mp4" />
-      <a href="https://github.com/MarcosWinther/project-prompts-for-podcast-generate-by-ia/blob/main/output/podcast_ScoobyDoobyCode.mp4"> 🎬 Clique aqui para assistir!</a>
+     <a href="https://github.com/MarcosWinther/project-prompts-for-podcast-generate-by-ia/blob/main/output/podcast_ScoobyDoobyCode.mp4"> 🎬 Clique aqui para assistir!</a>
    </video>
 </div>
 
